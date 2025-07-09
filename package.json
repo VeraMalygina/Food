@@ -1,0 +1,33 @@
+{
+  "browserslist": [
+    "> 1%"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "autoprefixer": "^10.4.21",
+    "babel-loader": "^9.2.1",
+    "browser-sync": "^3.0.4",
+    "core-js": "^3.39.0",
+    "gulp": "^5.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^6.0.1",
+    "merge-stream": "^2.0.0",
+    "sass": "^1.89.2",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^5.1.4",
+    "webpack-stream": "^7.0.0"
+  },
+  "name": "food",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
